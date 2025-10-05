@@ -8,12 +8,12 @@
   "theme_color": "#667eea",
   "icons": [
     {
-      "src": "icon-192.png",
-      "sizes": "192x192",
+      "src": "ChatGPT Image Oct 5, 2025, 10_57_17 AM.png",
+      "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "icon-512.png",
+      "src": "ChatGPT Image Oct 5, 2025, 10_57_17 AM.png",
       "sizes": "512x512",
       "type": "image/png"
     }
