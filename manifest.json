@@ -2,7 +2,7 @@
   "name": "CGPA Calculator Pro",
   "short_name": "CGPA Pro",
   "description": "Calculate and track your CGPA offline",
-  "start_url": "./index.html",
+  "start_url": "https://piusbliss1.github.io/cgpa-calculator/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#667eea",
